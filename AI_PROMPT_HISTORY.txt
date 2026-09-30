@@ -295,3 +295,39 @@ Operation log
 
 [19] [Claude]
 sob prompt history akbare daw onnk gulo uthai nai
+
+[20] [Claude]
+[screenshot attached: LRU Cache Playground with the operation log showing the task example plus manual entries]
+diya submit korbo naki aro screen shoot nibo
+
+[21] [Claude]
+[screenshot attached: VS Code terminal showing the output of npm run demo]
+
+[22] [Claude]
+[screenshot attached: VS Code terminal showing the output of npm test with 9 tests passing]
+
+[23] [Claude]
+[excerpt attached: "AI_PROMPT_HISTORY.txt"]
+ai repo tei ata dite hobe?
+
+[24] [Claude]
+[screenshot attached: Task 3 — Algorithm Explanation & Critical Thinking description page]
+
+[25] [Claude]
+Frontend Developer Practical Assessment
+Welcome, Pervez Mia
+2:25:48
+General Instructions
+
+Progress: 3 / 4 tasks completed
+
+* [1.Task 1 — Order Tracking Screen*Completed](https://assessment.vecosoft.com/assessment/task/fc65e94d-ca91-428b-918a-d61a20c19b35)
+* [2.Task 2 — LRU Cache / Problem-Solving*Completed](https://assessment.vecosoft.com/assessment/task/1ca47be0-8b86-4739-b832-b78615220a81)
+* [3.Task 3 — Algorithm Explanation & Critical Thinking*Completed](https://assessment.vecosoft.com/assessment/task/d34f9e54-0d19-401a-b0d4-8e7da0ead0a5)
+* [4.Task 4 — Figma / UI Design (Optional)Open](https://assessment.vecosoft.com/assessment/task/f57c4d7d-4a49-492e-902f-cb8d3d46f76b)
+
+Review & Final Submit
+akhon ki task 4 korbo
+
+[26] [Claude]
+[screenshot attached: Task 4 — Figma / UI Design (Optional) description page]
