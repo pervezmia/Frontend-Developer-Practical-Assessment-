@@ -1,49 +1,297 @@
 [1] [Claude]
 Welcome, Pervez Mia
 Frontend Developer Practical Assessment
+
 Tasks
 4
 Time limit
 4h
 Your timer starts the moment you click Start, and is tracked on our server - refreshing or closing this page will not reset it.
+
 General Instructions
+
 GENERAL INSTRUCTIONS
 
-* AI tools such as ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, etc. are allowed and encouraged.
-* Any frontend tools, libraries, frameworks, and development tools may be used.
-* Backend integration is not required.
-* Mock/static data is acceptable.
-* Your submission should be your own work.
-* You should understand and be able to explain your submitted code/design.
-* Keep your code clean, readable, and properly structured.
-* Assessment time limit is 4 hours.
+- AI tools such as ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, etc. are allowed and encouraged.
+- Any frontend tools, libraries, frameworks, and development tools may be used.
+- Backend integration is not required.
+- Mock/static data is acceptable.
+- Your submission should be your own work.
+- You should understand and be able to explain your submitted code/design.
+- Keep your code clean, readable, and properly structured.
+- Assessment time limit is 4 hours.
 
 AI PROMPT HISTORY — MANDATORY
+
 If you use ANY AI tool during the assessment, you must submit the COMPLETE prompt history for EVERY AI tool used for this specific assessment project.
+
 The AI prompt history must be submitted inside the Git repository as a separate text file.
+
 Required file:
+
 AI_PROMPT_HISTORY.txt
+
 The file must contain:
 
-* Every prompt, question, instruction, or request sent to AI for this specific assessment project
-* Prompts from every AI tool used for this specific assessment project
-* All prompts in the exact order they were sent
-* No omitted prompts
-* No rewritten prompts
-* No combined prompts
-* No summarized prompts
+- Every prompt, question, instruction, or request sent to AI for this specific assessment project
+- Prompts from every AI tool used for this specific assessment project
+- All prompts in the exact order they were sent
+- No omitted prompts
+- No rewritten prompts
+- No combined prompts
+- No summarized prompts
 
 The AI prompt history must only include prompts related to this assessment project. Do not include prompts from unrelated projects, previous work, personal conversations, or other tasks.
+
 The AI_PROMPT_HISTORY.txt file must be committed and included in the submitted Git repository.
+
 If you used multiple AI tools, include the complete prompt history from every AI tool in the same AI_PROMPT_HISTORY.txt file, maintaining the original chronological order.
+
 If possible, you may also provide an exported/shared conversation link accessible without login. However, the AI_PROMPT_HISTORY.txt file inside the submitted Git repository is mandatory.
+
 If you did not use AI, create the AI_PROMPT_HISTORY.txt file and write:
+
 "N/A — I did not use AI tools."
-এটা আমার Vecosoft Careers -- Frontend Developer Practical Assessment কিভাবে কি করব? উপরের বিষয় তুমি বাংলায় সুন্দর করে আমাকে বুঝিয়ে দাও।
-আমার হাতে অল্প সময় আছে, যাতে আমি দুই ঘণ্টার ভিতরে বা তিন ঘণ্টার ভিতরে কাজটা শেষ করতে পারি, বা এর আগে হলেও আলহামদুলিল্লাহ।
-তুমি স্মার্টভাবে নির্দেশনা অনুযায়ী সঠিকভাবে যেন কাজটা Cloud Gemini, ChatGPT এগুলোর সাহায্য নিয়ে করতে পারি। তুমি সেইভাবে আমাকে ব্যাখ্যা করো বাংলাতে।
+এটা আমার Vecosoft Careers -- Frontend Developer Practical Assessment কিভাবে কি করব? উপরের বিষয় তুমি বাংলায় সুন্দর করে আমাকে বুঝিয়ে দাও।
+
+আমার হাতে অল্প সময় আছে, যাতে আমি দুই ঘণ্টার ভিতরে বা তিন ঘণ্টার ভিতরে কাজটা শেষ করতে পারি, বা এর আগে হলেও আলহামদুলিল্লাহ।
+
+তুমি স্মার্টভাবে নির্দেশনা অনুযায়ী সঠিকভাবে যেন কাজটা Cloud Gemini, ChatGPT এগুলোর সাহায্য নিয়ে করতে পারি। তুমি সেইভাবে আমাকে ব্যাখ্যা করো বাংলাতে।
+
+[2] [Claude]
+[screenshot attached: VS Code Explorer showing project folder structure]
+AI_PROMPT_HISTORY.txt এটা কোথায় করব?
+
+[3] [Claude]
+AI_PROMPT_HISTORY.txt এই ফাইলে কি তোমার থেকে নিয়ে, মানে copy করে নিয়ে এখানে paste করব? নাকি এই link টা ওখানে paste করব?
+
+তোমার সাথে কথোপকথনের যে link, সেইটা নাকি এগুলো copy করে বিস্তারিত এখানে paste করব?
+
+[4] [Claude]
+[screenshot attached: VS Code showing AI_PROMPT_HISTORY.txt file with the assessment text pasted]
+Welcome, Pervez Mia
+Frontend Developer Practical Assessment
+
+Tasks
+4
+Time limit
+4h
+Your timer starts the moment you click Start, and is tracked on our server - refreshing or closing this page will not reset it.
+
+General Instructions
+
+GENERAL INSTRUCTIONS
+
+- AI tools such as ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, etc. are allowed and encouraged.
+- Any frontend tools, libraries, frameworks, and development tools may be used.
+- Backend integration is not required.
+- Mock/static data is acceptable.
+- Your submission should be your own work.
+- You should understand and be able to explain your submitted code/design.
+- Keep your code clean, readable, and properly structured.
+- Assessment time limit is 4 hours.
+
+AI PROMPT HISTORY — MANDATORY
+
+If you use ANY AI tool during the assessment, you must submit the COMPLETE prompt history for EVERY AI tool used for this specific assessment project.
+
+The AI prompt history must be submitted inside the Git repository as a separate text file.
+
+Required file:
+
+AI_PROMPT_HISTORY.txt
+
+The file must contain:
+
+- Every prompt, question, instruction, or request sent to AI for this specific assessment project
+- Prompts from every AI tool used for this specific assessment project
+- All prompts in the exact order they were sent
+- No omitted prompts
+- No rewritten prompts
+- No combined prompts
+- No summarized prompts
+
+The AI prompt history must only include prompts related to this assessment project. Do not include prompts from unrelated projects, previous work, personal conversations, or other tasks.
+
+The AI_PROMPT_HISTORY.txt file must be committed and included in the submitted Git repository.
+
+If you used multiple AI tools, include the complete prompt history from every AI tool in the same AI_PROMPT_HISTORY.txt file, maintaining the original chronological order.
+
+If possible, you may also provide an exported/shared conversation link accessible without login. However, the AI_PROMPT_HISTORY.txt file inside the submitted Git repository is mandatory.
+
+If you did not use AI, create the AI_PROMPT_HISTORY.txt file and write:
+
+"N/A — I did not use AI tools."
+এটা আমার Vecosoft Careers -- Frontend Developer Practical Assessment কিভাবে কি করব? উপরের বিষয় তুমি বাংলায় সুন্দর করে আমাকে বুঝিয়ে দাও।
+
+আমার হাতে অল্প সময় আছে, যাতে আমি দুই ঘণ্টার ভিতরে বা তিন ঘণ্টার ভিতরে কাজটা শেষ করতে পারি, বা এর আগে হলেও আলহামদুলিল্লাহ।
+
+তুমি স্মার্টভাবে নির্দেশনা অনুযায়ী সঠিকভাবে যেন কাজটা Cloud Gemini, ChatGPT এগুলোর সাহায্য নিয়ে করতে পারি। তুমি সেইভাবে আমাকে ব্যাখ্যা করো বাংলাতে।---
+দেখো, ঠিক আছে কিনা। এইভাবে নাকি?
+
+[5] [Claude]
+Welcome, Pervez Mia
+Frontend Developer Practical Assessment
+
+Tasks
+4
+Time limit
+4h
+Your timer starts the moment you click Start, and is tracked on our server - refreshing or closing this page will not reset it.
+
+General Instructions
+
+GENERAL INSTRUCTIONS
+
+- AI tools such as ChatGPT, Claude, Gemini, GitHub Copilot, Cursor, etc. are allowed and encouraged.
+- Any frontend tools, libraries, frameworks, and development tools may be used.
+- Backend integration is not required.
+- Mock/static data is acceptable.
+- Your submission should be your own work.
+- You should understand and be able to explain your submitted code/design.
+- Keep your code clean, readable, and properly structured.
+- Assessment time limit is 4 hours.
+
+AI PROMPT HISTORY — MANDATORY
+
+If you use ANY AI tool during the assessment, you must submit the COMPLETE prompt history for EVERY AI tool used for this specific assessment project.
+
+The AI prompt history must be submitted inside the Git repository as a separate text file.
+
+Required file:
+
+AI_PROMPT_HISTORY.txt
+
+The file must contain:
+
+- Every prompt, question, instruction, or request sent to AI for this specific assessment project
+- Prompts from every AI tool used for this specific assessment project
+- All prompts in the exact order they were sent
+- No omitted prompts
+- No rewritten prompts
+- No combined prompts
+- No summarized prompts
+
+The AI prompt history must only include prompts related to this assessment project. Do not include prompts from unrelated projects, previous work, personal conversations, or other tasks.
+
+The AI_PROMPT_HISTORY.txt file must be committed and included in the submitted Git repository.
+
+If you used multiple AI tools, include the complete prompt history from every AI tool in the same AI_PROMPT_HISTORY.txt file, maintaining the original chronological order.
+
+If possible, you may also provide an exported/shared conversation link accessible without login. However, the AI_PROMPT_HISTORY.txt file inside the submitted Git repository is mandatory.
+
+If you did not use AI, create the AI_PROMPT_HISTORY.txt file and write:
+
+"N/A — I did not use AI tools."
+এটা আমার Vecosoft Careers -- Frontend Developer Practical Assessment কিভাবে কি করব? উপরের বিষয় তুমি বাংলায় সুন্দর করে আমাকে বুঝিয়ে দাও।
+
+আমার হাতে অল্প সময় আছে, যাতে আমি দুই ঘণ্টার ভিতরে বা তিন ঘণ্টার ভিতরে কাজটা শেষ করতে পারি, বা এর আগে হলেও আলহামদুলিল্লাহ।
+
+তুমি স্মার্টভাবে নির্দেশনা অনুযায়ী সঠিকভাবে যেন কাজটা Cloud Gemini, ChatGPT এগুলোর সাহায্য নিয়ে করতে পারি। তুমি সেইভাবে আমাকে ব্যাখ্যা করো বাংলাতে।
 
 
+তুমি এটা দিয়ে এমনভাবে বানিয়ে দাও যাতে আমি জাস্ট copy-paste করতে পারি। মানে, কিভাবে এইগুলো এখানে দেবো তার জন্য। আমি আসলে বুঝতে পারছি না।
+
+[6] [Claude]
+আমি চাচ্ছি, জাস্ট প্রথমটাই দিতে, আর অন্যগুলো দিতে চাচ্ছি না। তো, এটা করা যায় কিনা?
+
+[7] [Claude]
+how to attach screenshoot?
 
 [8] [Claude]
+[screenshot attached: assessment dashboard showing 4 tasks and timer]
+akhn kivabe korbo
+
+[9] [Claude]
 [screenshot attached: Task 1 — Order Tracking Screen description page]
+
+[10] [Claude]
+[screenshots attached: 4 screenshots of the Order Tracking Screen (On the way, Delayed, Not received, No tracking yet)]
+dekho sob thik ase naki
+
+[11] [Claude]
+[screenshot attached: Task 1 submission form with Live Deployed URL and GitHub Repository URL filled in]
+mark task complete a dibo ki? deploy korsi
+
+[12] [Claude]
+[screenshot attached: Task 2 — LRU Cache / Problem-Solving description page]
+
+[13] [Claude]
+```json
+{
+  "name": "vecosoft-problem-solve-task",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.3.7",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.7",
+    "tailwindcss": "^4"
+  }
+}
+
+```
+
+amar package.json file amon ami to nam o disi onno ta
+
+[14] [Claude]
+ami chassi j next js a korte tate jodi problem na hoi taile tumi amake next.js a kore daw
+
+[15] [Claude]
+Module not found: Can't resolve '@/LRUCache'
+./src/app/page.js (4:1)
+
+```
+Error: Module not found: Can't resolve '@/LRUCache'
+  2 |
+  3 | import { useState } from "react";
+> 4 | import LRUCache from "@/LRUCache";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  5 |
+  6 | const EXAMPLE = [
+  7 |   ["put", "A", 10],
+```
+
+[16] [Claude]
+hmm nai. mane ager oigulo to ami add kori nai
+
+[17] [Claude]
+[screenshot attached: LRU Cache Playground page in the browser, empty state]
+dekho thik ase naki?
+
+[18] [Claude]
+LRU Cache Playground
+Every result below comes from the real `LRUCache` class in `src/LRUCache.js`. A successful `get` or a `put` makes a key the most recently used; when the cache is full, the least recently used key is evicted.
+CapacityCreate new cacheRun the task example
+KeyValueTTL in ms (optional)
+put(key, value)get(key)
+Cache order (2 / 2)
+
+* Amost recent
+* Cnext to evict
+
+Expired entries are removed lazily, when they are read.
+Operation log
+
+1. get("A")->10
+2. get("C")->30
+3. get("B")->-1
+4. put("C", 30)->ok(evicted "B" (least recently used))
+5. get("A")->10
+6. put("B", 20)->ok
+7. put("A", 10)->ok
+
+[19] [Claude]
+sob prompt history akbare daw onnk gulo uthai nai
